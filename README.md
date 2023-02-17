@@ -17,6 +17,8 @@ about me
 
 ## SOFT SKILLS
 
+## TOP 5 GALLUP TALENTS
+
 ## EXPERIENCE
 
 ## BLOGS
