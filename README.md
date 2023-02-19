@@ -12,7 +12,11 @@
 
 ## PROJECTS
 
-Challenge portfolio organised by DARE IT - QA Manual Testing
+*Challenge portfolio* organised by DARE IT - QA Manual Testing (from January to February 2023)
+
+:grey_question: [What is this project? - introduction](https://github.com/k-czekaj/challenge_portfolio_katarzyna/)
+
+List of completed tasks:
 
 👉 [Task 1: Exploratory testing](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task1.md)
 
@@ -23,6 +27,12 @@ Challenge portfolio organised by DARE IT - QA Manual Testing
 👉 [Task 4: Mobile app testing](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task4.md)
 
 👉 [Task 5: SQL part 1](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task5.md)
+
+👉 [Task 6: SQL part 2](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task6.md)
+
+## TEST CASES example
+
+👉 [Task 6: SQL part 2](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task6.md)
 
 👉 [Task 6: SQL part 2](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task6.md)
 
