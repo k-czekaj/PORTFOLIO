@@ -12,6 +12,19 @@
 
 ## PROJECTS
 
+Challenge portfolio organised by DARE IT - QA Manual Testing
+
+👉 [Task 1: Exploratory testing](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task1.md)
+
+👉 [Task 2: Test cases](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task2.md)
+
+👉 [Task 3: Bug reporting](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task3.md)
+
+👉 [Task 4: Mobile app testing](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task4.md)
+
+👉 [Task 5: SQL part 1](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task5.md)
+
+👉 [Task 6: SQL part 2](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task6.md)
 
 ## COURSES
 
