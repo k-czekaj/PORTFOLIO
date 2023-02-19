@@ -84,12 +84,15 @@
 - qTest
 
 ## TOOLS
+
 - GitHub
 - Slack
 - Xampp
 - Jira
 - qTest
+
 ## TECH SKILLS
+
 - knowledge of testing procedures and the creation of test documentation
 - knowledge of Syllabus ISTQB Foundation level
 - SQL knowledge
@@ -97,7 +100,9 @@
 - understanding of different delivery methodologies (e.g., agile, waterfall, v-model)
 - communicative English
 - Markdown knowledge
+
 ## SOFT SKILLS
+
 - precision and attention to quality
 - communication and teamwork skills
 - critical thinking
@@ -109,13 +114,42 @@
 - energetic and motivated
 - well-organized
 - assertive
-## TOP 5 GALLUP STRENGHTS
-1. Individualization 
-2. Input 
-3. Maximizer
-4. Positivity
-5. Includer
-## BLOGS
 
-## GROUPS
+## TOP 5 GALLUP STRENGHTS
+
+:one: Individualization 
+
+:two: Input 
+
+:three: Maximizer
+
+:four: Positivity
+
+:five: Includer
+
+## BOOKS ABOUT TESTING
+
+:arrow_forward: [Certyfikowany tester ISTQB. Poziom podstawowy (Adam Roman, Lucjan Stapp)](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/e)
+
+:arrow_forward: [Ścieżka testera. Certyfikat ISTQB w pytaniach i odpowiedziach (Rafał Podraza)](https://helion.pl/ksiazki/sciezka-testera-certyfikat-istqb-w-pytaniach-i-odpowiedziach-rafal-podraza,istqbw.htm#format/e)
+
+## RECOMMENDED BLOGS ABOUT TESTING
+
+:arrow_forward:
+
+:arrow_forward:
+
+## GROUPS ABOUT TESTING ON FACEBOOK
+
+:arrow_forward: [Testuj, Dziewczyno!](https://www.facebook.com/groups/testujdziewczyno)
+
+:arrow_forward: [Testowanie oprogramowania - Materiały | Porady](https://www.facebook.com/groups/testowanie/)
+
+:arrow_forward: [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/)
+
+:arrow_forward: [Tester oprogramowania - jak nim zostać?(https://www.facebook.com/groups/jakzostactesterem/)
+
+:arrow_forward: [Start w IT - początkujący tester oprogramowania i programista]([Start w IT - początkujący tester oprogramowania i programista](https://www.facebook.com/groups/czyitjestdlamnie/)
+
+:arrow_forward: [ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242)
 
