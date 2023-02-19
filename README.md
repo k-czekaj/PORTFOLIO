@@ -15,7 +15,7 @@
 
 *(from January to February 2023)*
 
-:grey_question: [What is this project? - introduction](https://github.com/k-czekaj/challenge_portfolio_katarzyna/)
+:grey_question: [What is this project? - introduction](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/README.md)
 
 List of completed tasks:
 
