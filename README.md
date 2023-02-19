@@ -147,9 +147,9 @@
 
 :arrow_forward: [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/)
 
-:arrow_forward: [Tester oprogramowania - jak nim zostać?(https://www.facebook.com/groups/jakzostactesterem/)
+:arrow_forward: [Tester oprogramowania - jak nim zostać?](https://www.facebook.com/groups/jakzostactesterem/)
 
-:arrow_forward: [Start w IT - początkujący tester oprogramowania i programista]([Start w IT - początkujący tester oprogramowania i programista](https://www.facebook.com/groups/czyitjestdlamnie/)
+:arrow_forward: [Start w IT - początkujący tester oprogramowania i programista](https://www.facebook.com/groups/czyitjestdlamnie/)
 
 :arrow_forward: [ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242)
 
