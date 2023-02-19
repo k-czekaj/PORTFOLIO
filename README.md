@@ -11,7 +11,7 @@
 
 ## PROJECTS
 
-***Challenge portfolio*** organised by DARE IT - QA Manual Testing 
+### ***Challenge portfolio*** organised by DARE IT - QA Manual Testing 
 
 *(from January to February 2023)*
 
@@ -33,23 +33,59 @@ List of completed tasks:
 
 ## TEST CASES example
 
-:white_circle: [Test cases based on the User Story](https://docs.google.com/spreadsheets/d/1tIGeHfqwgSP1iM9ihQ3Z-YdhWcP5EOYLRanQKBu2Bmw/edit?usp=sharing)
+:arrow_forward: [Test cases based on the User Story](https://docs.google.com/spreadsheets/d/1tIGeHfqwgSP1iM9ihQ3Z-YdhWcP5EOYLRanQKBu2Bmw/edit?usp=sharing)
 
-:white_circle: [Test cases based on explorary testing](https://docs.google.com/spreadsheets/d/19denA5bKYnGvGJsy86dM3P5xHk01XWrpxlWxbD1njQY/edit?usp=sharing)
+:arrow_forward: [Test cases based on explorary testing](https://docs.google.com/spreadsheets/d/19denA5bKYnGvGJsy86dM3P5xHk01XWrpxlWxbD1njQY/edit?usp=sharing)
 
 ## BUG REPORT example
 
-🔴 [Bug report - web application testing](https://docs.google.com/spreadsheets/d/1o7aJO7-b41CV3tPTUE2qcwcl9hbmt0tt6_8ib-sy9qs/edit?usp=sharing)
+:arrow_forward: [Bug report - web application testing](https://docs.google.com/spreadsheets/d/1o7aJO7-b41CV3tPTUE2qcwcl9hbmt0tt6_8ib-sy9qs/edit?usp=sharing)
 
-🔴 [Bug report - mobile app testing](https://docs.google.com/spreadsheets/d/1muAVMK3fiv_bbriZgU5UXNuu5mbXXu3myqjWlIlFlU8/edit?usp=sharing)
+:arrow_forward: [Bug report - mobile app testing](https://docs.google.com/spreadsheets/d/1muAVMK3fiv_bbriZgU5UXNuu5mbXXu3myqjWlIlFlU8/edit?usp=sharing)
 
 ## TEST REPORT example
 
-⚫ [Test report - web application testing](https://docs.google.com/document/d/1gMhkhlG4gicj1FLED_BK1U921K1k9GwN-2_yVqU5nBY/edit?usp=sharing)
+:arrow_forward: [Test report - web application testing](https://docs.google.com/document/d/1gMhkhlG4gicj1FLED_BK1U921K1k9GwN-2_yVqU5nBY/edit?usp=sharing)
+
+## SQL 
+
+:arrow_forward: [SQL tasks - advanced](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task6.md)
+
+:arrow_forward: [SQL tasks - basic](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task5.md)
 
 ## COURSES
+### February 2023
+
+☑️ [Challenge porfolio - QA Manual Testing ('Zostań testerem manualnym') - DARE IT](https://www.dareit.io/challenges/qa-manual-testing)
+
+- exploratory testing
+- testing web applications
+- testing mobile applications
+- using DevTools
+- writing test cases
+- bug reporting
+- creating a test report
+- using Jira to bug reporting
+- SQL
+
+☑️ [SQL from scratch | MySQL ('Kurs SQL od podstaw | MySQL') - Udemy](https://www.udemy.com/certificate/UC-b9d483e2-b653-4d84-b520-0d8d93524365/)
+
+- SQL
+
+### January 2023
+
+☑️ [Basics of manual software testing ('Podstawy manualnego testowania oprogramowania') - Udemy](https://www.udemy.com/certificate/UC-2462a409-5f17-4c14-b08e-f51f17405cf3/)
+
+- testing theory
+- writing test cases
+- bug reporting
+- software development models
+- Jira
+- qTest
 
 ## TOOLS
+
+
 
 ## HARD SKILLS
 
