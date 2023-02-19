@@ -11,47 +11,47 @@
 
 ## PROJECTS
 
-### ***Challenge portfolio*** organised by DARE IT - QA Manual Testing 
+- ### ***Challenge portfolio*** organised by DARE IT - QA Manual Testing 
 
-*(from January to February 2023)*
+  *(from January to February 2023)*
 
-:grey_question: [What is this project? - introduction](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/README.md)
+  :grey_question: [What is this project? - introduction](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/README.md)
 
-List of completed tasks:
+  List of completed tasks:
 
-:one: [Task 1: Exploratory testing](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task1.md)
+  :one: [Task 1: Exploratory testing](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task1.md)
 
-:two: [Task 2: Test cases](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task2.md)
+  :two: [Task 2: Test cases](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task2.md)
 
-:three: [Task 3: Bug reporting](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task3.md)
+  :three: [Task 3: Bug reporting](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task3.md)
 
-:four: [Task 4: Mobile app testing](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task4.md)
+  :four: [Task 4: Mobile app testing](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task4.md)
 
-:five: [Task 5: SQL part 1](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task5.md)
+  :five: [Task 5: SQL part 1](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task5.md)
 
-:six: [Task 6: SQL part 2](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task6.md)
+  :six: [Task 6: SQL part 2](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task6.md)
 
-## TEST CASES example
+- ### TEST CASES example
 
-:arrow_forward: [Test cases based on the User Story](https://docs.google.com/spreadsheets/d/1tIGeHfqwgSP1iM9ihQ3Z-YdhWcP5EOYLRanQKBu2Bmw/edit?usp=sharing)
+  :arrow_forward: [Test cases based on the User Story](https://docs.google.com/spreadsheets/d/1tIGeHfqwgSP1iM9ihQ3Z-YdhWcP5EOYLRanQKBu2Bmw/edit?usp=sharing)
 
-:arrow_forward: [Test cases based on explorary testing](https://docs.google.com/spreadsheets/d/19denA5bKYnGvGJsy86dM3P5xHk01XWrpxlWxbD1njQY/edit?usp=sharing)
+  :arrow_forward: [Test cases based on explorary testing](https://docs.google.com/spreadsheets/d/19denA5bKYnGvGJsy86dM3P5xHk01XWrpxlWxbD1njQY/edit?usp=sharing)
 
-## BUG REPORT example
+- ### BUG REPORT example
 
-:arrow_forward: [Bug report - web application testing](https://docs.google.com/spreadsheets/d/1o7aJO7-b41CV3tPTUE2qcwcl9hbmt0tt6_8ib-sy9qs/edit?usp=sharing)
+  :arrow_forward: [Bug report - web application testing](https://docs.google.com/spreadsheets/d/1o7aJO7-b41CV3tPTUE2qcwcl9hbmt0tt6_8ib-sy9qs/edit?usp=sharing)
 
-:arrow_forward: [Bug report - mobile app testing](https://docs.google.com/spreadsheets/d/1muAVMK3fiv_bbriZgU5UXNuu5mbXXu3myqjWlIlFlU8/edit?usp=sharing)
+  :arrow_forward: [Bug report - mobile app testing](https://docs.google.com/spreadsheets/d/1muAVMK3fiv_bbriZgU5UXNuu5mbXXu3myqjWlIlFlU8/edit?usp=sharing)
 
-## TEST REPORT example
+- ### TEST REPORT example
 
-:arrow_forward: [Test report - web application testing](https://docs.google.com/document/d/1gMhkhlG4gicj1FLED_BK1U921K1k9GwN-2_yVqU5nBY/edit?usp=sharing)
+  :arrow_forward: [Test report - web application testing](https://docs.google.com/document/d/1gMhkhlG4gicj1FLED_BK1U921K1k9GwN-2_yVqU5nBY/edit?usp=sharing)
 
-## SQL 
+- ### SQL 
 
-:arrow_forward: [SQL tasks - advanced](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task6.md)
+  :arrow_forward: [SQL tasks - advanced](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task6.md)
 
-:arrow_forward: [SQL tasks - basic](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task5.md)
+  :arrow_forward: [SQL tasks - basic](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task5.md)
 
 ## COURSES
 ### February 2023
