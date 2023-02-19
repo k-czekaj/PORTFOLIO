@@ -84,17 +84,37 @@
 - qTest
 
 ## TOOLS
-
-
-
-## HARD SKILLS
-
+- GitHub
+- Slack
+- Xampp
+- Jira
+- qTest
+## TECH SKILLS
+- knowledge of testing procedures and the creation of test documentation
+- knowledge of Syllabus ISTQB Foundation level
+- SQL knowledge
+- knowledge of Chrome DevTools
+- understanding of different delivery methodologies (e.g., agile, waterfall, v-model)
+- communicative English
+- Markdown knowledge
 ## SOFT SKILLS
-
+- precision and attention to quality
+- communication and teamwork skills
+- critical thinking
+- ability to learn new tools, systems and processes quickly
+- thinking outside the box
+- problem solving and analytical skills
+- proactive attitude
+- desire for self-development
+- energetic and motivated
+- well-organized
+- assertive
 ## TOP 5 GALLUP STRENGHTS
-
-## EXPERIENCE
-
+1. Individualization 
+2. Input 
+3. Maximizer
+4. Positivity
+5. Includer
 ## BLOGS
 
 ## GROUPS
