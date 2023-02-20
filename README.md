@@ -85,21 +85,22 @@
 
 ## TOOLS
 
-- GitHub
-- Slack
-- Xampp
-- Jira
-- qTest
+- **MySQL** - a relational database management system that is based on structured query language (SQL)
+- **Xampp** - free and open-source cross-platform web server solution
+- **Jira** - a suite of agile work management solutions that powers collaboration across all teams from concept to customer
+- **qTest** - a test management tool used for Project Management, Bug Tracking, and Test Management
+- **GitHub** - a code hosting platform for version control and collaboration
+- **Slack** - a messaging app for business that connects people to the information they need
 
 ## TECH SKILLS
 
-- knowledge of testing procedures and the creation of test documentation
-- knowledge of Syllabus ISTQB Foundation level
-- SQL knowledge
-- knowledge of Chrome DevTools
-- understanding of different delivery methodologies (e.g., agile, waterfall, v-model)
-- communicative English
-- Markdown knowledge
+- knowledge of **testing procedures** and the creation of **test documentation**
+- knowledge of Syllabus **ISTQB Foundation level**
+- **DevTools** knowledge
+- **SQL** knowledge
+- understanding of different delivery **methodologies** (e.g., agile, waterfall, v-model)
+- communicative **English**
+- **Markdown** knowledge
 
 ## SOFT SKILLS
 
@@ -159,3 +160,8 @@
 
 :arrow_forward: [ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242)
 
+---------
+
+<p align="center"><img src="https://user-images.githubusercontent.com/122294284/219984340-432a6a4e-6f59-4125-b9ca-efb6094ad0d9.jpg" width="50%" height="50%"></p>
+
+###### <p align="center"><a href="https://pl.freepik.com/darmowe-wektory/ilustracja-koncepcji-testowania-kodu-oprogramowania_21532464.htm#page=2&query=tester%20oprogramowania&position=15&from_view=search&track=ais">Image by Storyset on Freepik</a></p> 
