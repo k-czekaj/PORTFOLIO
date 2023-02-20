@@ -104,17 +104,27 @@
 
 ## SOFT SKILLS
 
-- precision and attention to quality
-- communication and teamwork skills
-- critical thinking
-- ability to learn new tools, systems and processes quickly
-- thinking outside the box
-- problem solving and analytical skills
-- proactive attitude
-- desire for self-development
-- energetic and motivated
-- well-organized
-- assertive
+🔎 precision and attention to quality
+
+🙌 communication and teamwork skills
+
+💥 critical thinking
+
+📚 ability to learn new tools, systems and processes quickly
+
+💡 thinking outside the box
+
+:chart_with_upwards_trend: problem solving and analytical skills
+
+:rocket: proactive attitude
+
+🔁 desire for self-development
+
+🔋 energetic and motivated
+
+:clipboard: well-organized
+
+🙅‍♀️ assertive
 
 ## TOP 5 GALLUP STRENGHTS
 
