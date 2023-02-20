@@ -135,9 +135,15 @@
 
 ## RECOMMENDED BLOGS ABOUT TESTING
 
-:arrow_forward:
+:arrow_forward: [testuj.pl](https://testuj.pl/blog/)
 
-:arrow_forward:
+:arrow_forward: [Quality Island](https://qualityisland.pl/blog/)
+
+:arrow_forward: [Waldemar Szafraniec: testy i szkolenia](https://www.wyszkolewas.com.pl/)
+
+:arrow_forward: [Tester - Milena Bednarczyk](https://tester.milenabednarczyk.pl/)
+
+:arrow_forward: [testelka](https://testelka.pl/blog/)
 
 ## GROUPS ABOUT TESTING ON FACEBOOK
 
