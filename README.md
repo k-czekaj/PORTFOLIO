@@ -33,11 +33,11 @@
 
 - ### TEST CASES example
 
-  *Test environment:* [Football Scout - web app](https://scouts.futbolkolektyw.pl/)
+  *Test environment:* <a href="https://scouts.futbolkolektyw.pl/" target="_blank">Football Scout - web app</a>
 
-  :arrow_forward: [**Test cases based on the User Story**](https://docs.google.com/spreadsheets/d/1tIGeHfqwgSP1iM9ihQ3Z-YdhWcP5EOYLRanQKBu2Bmw/edit?usp=sharing)
+  :arrow_forward: <a href="https://docs.google.com/spreadsheets/d/1tIGeHfqwgSP1iM9ihQ3Z-YdhWcP5EOYLRanQKBu2Bmw/edit?usp=sharing" target="_blank"><b>Test cases based on the User Story</b></a>
 
-  :arrow_forward: [**Test cases based on explorary testing**](https://docs.google.com/spreadsheets/d/19denA5bKYnGvGJsy86dM3P5xHk01XWrpxlWxbD1njQY/edit?usp=sharing)
+  :arrow_forward: <a href="https://docs.google.com/spreadsheets/d/19denA5bKYnGvGJsy86dM3P5xHk01XWrpxlWxbD1njQY/edit?usp=sharing" target="_blank"><b>Test cases based on explorary testing</b></a>
 
 - ### BUG REPORT example
 
