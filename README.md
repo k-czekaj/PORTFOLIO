@@ -33,29 +33,39 @@
 
 - ### TEST CASES example
 
-  :arrow_forward: [Test cases based on the User Story](https://docs.google.com/spreadsheets/d/1tIGeHfqwgSP1iM9ihQ3Z-YdhWcP5EOYLRanQKBu2Bmw/edit?usp=sharing)
+  *Test environment:* [Football Scout - web app](https://scouts.futbolkolektyw.pl/)
 
-  :arrow_forward: [Test cases based on explorary testing](https://docs.google.com/spreadsheets/d/19denA5bKYnGvGJsy86dM3P5xHk01XWrpxlWxbD1njQY/edit?usp=sharing)
+  :arrow_forward: [**Test cases based on the User Story**](https://docs.google.com/spreadsheets/d/1tIGeHfqwgSP1iM9ihQ3Z-YdhWcP5EOYLRanQKBu2Bmw/edit?usp=sharing)
+
+  :arrow_forward: [**Test cases based on explorary testing**](https://docs.google.com/spreadsheets/d/19denA5bKYnGvGJsy86dM3P5xHk01XWrpxlWxbD1njQY/edit?usp=sharing)
 
 - ### BUG REPORT example
 
-  :arrow_forward: [Bug report - web application testing](https://docs.google.com/spreadsheets/d/1o7aJO7-b41CV3tPTUE2qcwcl9hbmt0tt6_8ib-sy9qs/edit?usp=sharing)
+  *Test environment:* [Football Scout - web application](https://scouts.futbolkolektyw.pl/)
 
-  :arrow_forward: [Bug report - mobile app testing](https://docs.google.com/spreadsheets/d/1muAVMK3fiv_bbriZgU5UXNuu5mbXXu3myqjWlIlFlU8/edit?usp=sharing)
+  :arrow_forward: [**Bug report - web application testing**](https://docs.google.com/spreadsheets/d/1o7aJO7-b41CV3tPTUE2qcwcl9hbmt0tt6_8ib-sy9qs/edit?usp=sharing)
+  
+  *Test environment:* [OLX - mobile app](https://play.google.com/store/apps/details?id=pl.tablica&hl=pl&gl=US)
+  
+  :arrow_forward: [**Bug report - mobile app testing**](https://docs.google.com/spreadsheets/d/1muAVMK3fiv_bbriZgU5UXNuu5mbXXu3myqjWlIlFlU8/edit?usp=sharing)
 
 - ### TEST REPORT example
 
-  :arrow_forward: [Test report - web application testing](https://docs.google.com/document/d/1gMhkhlG4gicj1FLED_BK1U921K1k9GwN-2_yVqU5nBY/edit?usp=sharing)
+  *Test environment:* [Football Scout - web application](https://scouts.futbolkolektyw.pl/)
+
+  :arrow_forward: [**Test report - web application testing**](https://docs.google.com/document/d/1gMhkhlG4gicj1FLED_BK1U921K1k9GwN-2_yVqU5nBY/edit?usp=sharing)
   
 - ### JIRA - BUG REPORT example
 
-  :arrow_forward: [Bug report - mobile app testing](https://drive.google.com/drive/folders/15xQzIkuAT2grWet6FmunHI4-jhl9x9Rq?usp=sharing)
+  *Test environment:* [SwipeTo - mobile app](https://play.google.com/store/apps/details?id=pl.swipeto&hl=pl&gl=US)
+  
+  :arrow_forward: [**Bug report - mobile app testing**](https://drive.google.com/drive/folders/15xQzIkuAT2grWet6FmunHI4-jhl9x9Rq?usp=sharing) 
 
 - ### SQL 
 
-  :arrow_forward: [SQL tasks - advanced](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task6.md)
+  :arrow_forward: [**SQL tasks - advanced**](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task6.md)
 
-  :arrow_forward: [SQL tasks - basic](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task5.md)
+  :arrow_forward: [**SQL tasks - basic**](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task5.md)
 
 ## COURSES
 ### February 2023
@@ -95,6 +105,8 @@
 - **qTest** - a test management tool used for Project Management, Bug Tracking, and Test Management
 - **GitHub** - a code hosting platform for version control and collaboration
 - **Slack** - a messaging app for business that connects people to the information they need
+- **Mobizen** - a screen recorder mobile app
+- **Screenpresso** - a screen grab tool with built-in image editor
 
 ## TECH SKILLS
 
