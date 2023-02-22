@@ -33,7 +33,7 @@
 
 - ### TEST CASES example
 
-  *Test environment:* <a href="https://scouts.futbolkolektyw.pl/" target="_blank">Football Scout - web app</a>
+  *Test environment:* <a href="https://scouts.futbolkolektyw.pl/" target="_blank">Football Scout - web application</a>
 
   :arrow_forward: <a href="https://docs.google.com/spreadsheets/d/1tIGeHfqwgSP1iM9ihQ3Z-YdhWcP5EOYLRanQKBu2Bmw/edit?usp=sharing" target="_blank"><b>Test cases based on the User Story</b></a>
 
@@ -41,36 +41,36 @@
 
 - ### BUG REPORT example
 
-  *Test environment:* [Football Scout - web application](https://scouts.futbolkolektyw.pl/)
+  *Test environment:* <a href="https://scouts.futbolkolektyw.pl/" target="_blank">Football Scout - web application</a>
 
-  :arrow_forward: [**Bug report - web application testing**](https://docs.google.com/spreadsheets/d/1o7aJO7-b41CV3tPTUE2qcwcl9hbmt0tt6_8ib-sy9qs/edit?usp=sharing)
+  :arrow_forward: <a href="https://docs.google.com/spreadsheets/d/1o7aJO7-b41CV3tPTUE2qcwcl9hbmt0tt6_8ib-sy9qs/edit?usp=sharing" target="_blank"><b>Bug report - web application testing</b></a>
   
-  *Test environment:* [OLX - mobile app](https://play.google.com/store/apps/details?id=pl.tablica&hl=pl&gl=US)
+  *Test environment:* <a href="https://play.google.com/store/apps/details?id=pl.tablica&hl=pl&gl=US" target="_blank">OLX - mobile app</a>
   
-  :arrow_forward: [**Bug report - mobile app testing**](https://docs.google.com/spreadsheets/d/1muAVMK3fiv_bbriZgU5UXNuu5mbXXu3myqjWlIlFlU8/edit?usp=sharing)
+  :arrow_forward: <a href="https://docs.google.com/spreadsheets/d/1muAVMK3fiv_bbriZgU5UXNuu5mbXXu3myqjWlIlFlU8/edit?usp=sharing" target="_blank"><b>Bug report - mobile app testing</b></a>
 
 - ### TEST REPORT example
 
-  *Test environment:* [Football Scout - web application](https://scouts.futbolkolektyw.pl/)
+  *Test environment:* <a href="https://scouts.futbolkolektyw.pl/" target="_blank">Football Scout - web application</a>
 
-  :arrow_forward: [**Test report - web application testing**](https://docs.google.com/document/d/1gMhkhlG4gicj1FLED_BK1U921K1k9GwN-2_yVqU5nBY/edit?usp=sharing)
+  :arrow_forward: <a href="https://docs.google.com/document/d/1gMhkhlG4gicj1FLED_BK1U921K1k9GwN-2_yVqU5nBY/edit?usp=sharing" target="_blank"><b>Test report - web application testing</b></a>
   
 - ### JIRA - BUG REPORT example
 
-  *Test environment:* [SwipeTo - mobile app](https://play.google.com/store/apps/details?id=pl.swipeto&hl=pl&gl=US)
+  *Test environment:* <a href="https://play.google.com/store/apps/details?id=pl.swipeto&hl=pl&gl=US" target="_blank">SwipeTo - mobile app</a>
   
-  :arrow_forward: [**Bug report - mobile app testing**](https://drive.google.com/drive/folders/15xQzIkuAT2grWet6FmunHI4-jhl9x9Rq?usp=sharing) 
+  :arrow_forward: <a href="https://drive.google.com/drive/folders/15xQzIkuAT2grWet6FmunHI4-jhl9x9Rq?usp=sharing" target="_blank"><b>Bug report - mobile app testing</b></a>
 
 - ### SQL 
 
-  :arrow_forward: [**SQL tasks - advanced**](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task6.md)
+  :arrow_forward: [**SQL tasks - advanced**](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task6.md) 
 
   :arrow_forward: [**SQL tasks - basic**](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task5.md)
 
 ## COURSES
 ### February 2023
 
-☑️ [Challenge porfolio - QA Manual Testing ('Zostań testerem manualnym') - DARE IT](https://www.dareit.io/challenges/qa-manual-testing)
+☑️ <a href="https://www.dareit.io/challenges/qa-manual-testing" target="_blank">Challenge porfolio - QA Manual Testing ('Zostań testerem manualnym') - DARE IT</a>
 
 - exploratory testing
 - testing web applications
@@ -82,13 +82,13 @@
 - using Jira to bug reporting
 - SQL
 
-☑️ [SQL from scratch | MySQL ('Kurs SQL od podstaw | MySQL') - Udemy](https://www.udemy.com/certificate/UC-b9d483e2-b653-4d84-b520-0d8d93524365/)
+☑️ <a href="https://www.udemy.com/certificate/UC-b9d483e2-b653-4d84-b520-0d8d93524365/" target="_blank">SQL from scratch | MySQL ('Kurs SQL od podstaw | MySQL') - Udemy</a>
 
 - SQL
 
 ### January 2023
 
-☑️ [Basics of manual software testing ('Podstawy manualnego testowania oprogramowania') - Udemy](https://www.udemy.com/certificate/UC-2462a409-5f17-4c14-b08e-f51f17405cf3/)
+☑️ <a href="https://www.udemy.com/certificate/UC-2462a409-5f17-4c14-b08e-f51f17405cf3/" target="_blank">Basics of manual software testing ('Podstawy manualnego testowania oprogramowania') - Udemy</a>
 
 - testing theory
 - writing test cases
@@ -156,9 +156,9 @@
 
 ## BOOKS ABOUT TESTING
 
-:arrow_forward: [Certyfikowany tester ISTQB. Poziom podstawowy (Adam Roman, Lucjan Stapp)](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/e)
+:arrow_forward: <a href="https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/e" target="_blank">Certyfikowany tester ISTQB. Poziom podstawowy (Adam Roman, Lucjan Stapp)</a>
 
-:arrow_forward: [Ścieżka testera. Certyfikat ISTQB w pytaniach i odpowiedziach (Rafał Podraza)](https://helion.pl/ksiazki/sciezka-testera-certyfikat-istqb-w-pytaniach-i-odpowiedziach-rafal-podraza,istqbw.htm#format/e)
+:arrow_forward: <a href="https://helion.pl/ksiazki/sciezka-testera-certyfikat-istqb-w-pytaniach-i-odpowiedziach-rafal-podraza,istqbw.htm#format/e" target="_blank">Ścieżka testera. Certyfikat ISTQB w pytaniach i odpowiedziach (Rafał Podraza)</a>
 
 ## RECOMMENDED BLOGS ABOUT TESTING
 
