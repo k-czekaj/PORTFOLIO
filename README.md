@@ -82,6 +82,10 @@
 - using Jira to bug reporting
 - SQL
 
+☑️ <a href="https://szkoleniedlaqa.pl/konsola/" target="_blank">Developer Console ('Konsola deweloperska') - Szkolenia dla QA</a>
+
+- Chrome DevTools
+
 ☑️ <a href="https://www.udemy.com/certificate/UC-b9d483e2-b653-4d84-b520-0d8d93524365/" target="_blank">SQL from scratch | MySQL ('Kurs SQL od podstaw | MySQL') - Udemy</a>
 
 - SQL
