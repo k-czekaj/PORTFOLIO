@@ -63,7 +63,7 @@
 
 - ### SQL 
 
-  :arrow_forward: [**SQL tasks - advanced**](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task6.md) 
+  :arrow_forward: [**SQL tasks - advanced**](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task6.md#subtask1) 
 
   :arrow_forward: [**SQL tasks - basic**](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task5.md)
 
