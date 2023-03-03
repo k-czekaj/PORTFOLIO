@@ -68,6 +68,21 @@
   :arrow_forward: [**SQL tasks - basic**](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task5.md#subtask3)
 
 ## COURSES
+
+### March 2023
+
+☑️ <a href="https://www.udemy.com/certificate/UC-986fad80-f8f4-4698-841d-8c169c1b3e66/" target="_blank">Practical software testing course ('Praktyczny kurs testowania oprogramowania') - Udemy</a>
+
+- exploratory testing
+- using DevTools
+- using Jira to bug reporting
+- Postman - basics
+- GIT - basics
+- OWASP ZAP - basics
+- JMeter - basics
+- BrowserStack
+- SQL
+
 ### February 2023
 
 ☑️ <a href="https://www.dareit.io/challenges/qa-manual-testing" target="_blank">Challenge porfolio - QA Manual Testing ('Zostań testerem manualnym') - DARE IT</a>
@@ -82,9 +97,9 @@
 - using Jira to bug reporting
 - SQL
 
-☑️ <a href="https://szkoleniedlaqa.pl/konsola/" target="_blank">Developer Console ('Konsola deweloperska') - Szkolenia dla QA</a>
+☑️ <a href="https://drive.google.com/file/d/1ZsUsQkJZE63cKr_Jx6ALBy2IYrXyJ55a/view?usp=share_link" target="_blank">Developer Console ('Konsola deweloperska') - Exam 30/30 points - Szkolenia dla QA</a>
 
-- Chrome DevTools
+- Chrome DevTools - advanced
 
 ☑️ <a href="https://www.udemy.com/certificate/UC-b9d483e2-b653-4d84-b520-0d8d93524365/" target="_blank">SQL from scratch | MySQL ('Kurs SQL od podstaw | MySQL') - Udemy</a>
 
@@ -108,9 +123,13 @@
 - **Jira** - a suite of agile work management solutions that powers collaboration across all teams from concept to customer
 - **qTest** - a test management tool used for Project Management, Bug Tracking, and Test Management
 - **GitHub** - a code hosting platform for version control and collaboration
+- **GIT** - a distributed version control system that tracks changes in any set of computer files
+- **Postman** - an API platform for building and using APIs.
 - **Slack** - a messaging app for business that connects people to the information they need
 - **Mobizen** - a screen recorder mobile app
 - **Screenpresso** - a screen grab tool with built-in image editor
+- **OWASP ZAP** - an open-source web application security scanner
+- **BrowserStack** - testing platform that provides developers with the ability to test their websites and mobile applications across on-demand browsers, operating systems and real mobile devices
 
 ## TECH SKILLS
 
