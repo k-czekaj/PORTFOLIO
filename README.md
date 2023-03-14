@@ -59,7 +59,7 @@
 
   *Test environment:* <a href="https://play.google.com/store/apps/details?id=pl.swipeto&hl=pl&gl=US" target="_blank">SwipeTo - mobile app</a>
   
-  :arrow_forward: <a href="https://drive.google.com/drive/folders/15xQzIkuAT2grWet6FmunHI4-jhl9x9Rq?usp=sharing" target="_blank"><b>Bug report - mobile app testing (polish)</b></a>
+  :arrow_forward: <a href="https://drive.google.com/drive/folders/15xQzIkuAT2grWet6FmunHI4-jhl9x9Rq?usp=sharing" target="_blank"><b>Bug report - mobile app testing (Polish)</b></a>
 
 - ### SQL 
 
