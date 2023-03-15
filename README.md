@@ -145,7 +145,7 @@
 - knowledge of Syllabus **ISTQB Foundation level**
 - **DevTools** knowledge
 - **SQL** knowledge
-- **REST API testing***
+- **REST API testing**
 - understanding of different delivery **methodologies** (e.g., agile, waterfall, v-model)
 - communicative **English**
 - **Markdown** knowledge
