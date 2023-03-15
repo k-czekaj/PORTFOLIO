@@ -2,7 +2,7 @@
 
 ## ABOUT ME
 
-<p align="justify">Why did I decide to be a <b>software tester</b>? I am the person in the team who <b>can look critically</b> and at the same time <b>delicately give comments</b> without hurting anyone. This has saved my team a lot of times from presenting a project with mistakes and losing client trust in our professionalism. In my work, I always care about a <b>good atmosphere, high quality</b> and <b>every detail of my tasks.</b> I can find mistakes, but I also appreciate <b>constructive criticism</b>, because it allows me to self-develop. The constant <b>desire for self-development</b> is another advantage of being a tester, which convinced me to choose this career path. During my training process, I have mastered <b>the skills of exploratory testing, testing of websites and mobile applications, writing test cases, reporting defects</b> and <b>creating test reports.</b> I know how to use <b>SQL, Chrome DevTools, Jira</b> and <b>GitHub.</b> The effects can be seen in this repository. My curiosity grows with each new skill and knowledge, I am convinced that <b>I want to go deeper into the world of testing.</b> I am ready to take on new challenges as <b>a member of the development team.</b></p>
+<p align="justify">Why did I decide to be a <b>software tester</b>? I am the person in the team who <b>can look critically</b> and at the same time <b>delicately give comments</b> without hurting anyone. This has saved my team a lot of times from presenting a project with mistakes and losing client trust in our professionalism. In my work, I always care about a <b>good atmosphere, high quality</b> and <b>every detail of my tasks.</b> I can find mistakes, but I also appreciate <b>constructive criticism</b>, because it allows me to self-develop. The constant <b>desire for self-development</b> is another advantage of being a tester, which convinced me to choose this career path. During my training process, I have mastered <b>the skills of exploratory testing, testing of websites and mobile applications, REST API testing, writing test cases, reporting defects</b> and <b>creating test reports.</b> I know how to use <b>SQL, Chrome DevTools, Jira, Postman</b> and <b>GitHub.</b> The effects can be seen in this repository. My curiosity grows with each new skill and knowledge, I am convinced that <b>I want to go deeper into the world of testing.</b> I am ready to take on new challenges as <b>a member of the development team.</b></p>
 
 ### <p align="center"><a href="https://www.linkedin.com/in/katarzyna-czekaj/" target="_blank">☑️ Visit my <b>LinkedIn</b> profile</a></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/122294284/219976499-1d2a8bb6-1546-498b-8bc3-a252110d41eb.jpg" alt="Obraz autorstwa storyset na Freepik" width="70%" height="70%"></p>
@@ -71,6 +71,14 @@
 
 ### March 2023
 
+☑️ <a href="https://www.udemy.com/certificate/UC-27510721-85d9-41f0-98e9-eac3ec52bfb3/" target="_blank">Postman from scratch - REST API testing ('Postman od podstaw - testowanie REST API') - Udemy</a>
+
+- Postman
+- sending requests
+- defining environments
+- defining variables
+- REST API testing
+
 ☑️ <a href="https://www.udemy.com/certificate/UC-986fad80-f8f4-4698-841d-8c169c1b3e66/" target="_blank">Practical software testing course ('Praktyczny kurs testowania oprogramowania') - Udemy</a>
 
 - exploratory testing
@@ -137,6 +145,7 @@
 - knowledge of Syllabus **ISTQB Foundation level**
 - **DevTools** knowledge
 - **SQL** knowledge
+- **REST API testing***
 - understanding of different delivery **methodologies** (e.g., agile, waterfall, v-model)
 - communicative **English**
 - **Markdown** knowledge
@@ -182,6 +191,8 @@
 :arrow_forward: <a href="https://www.funwithbugs.com/landingpage/juz_jest_dostepna/" target="_blank">Podróż przez świat testowania (Karolina Pawłowska, Natalia Pawlak)</a>
 
 :arrow_forward: <a href="https://helion.pl/ksiazki/zawod-tester-od-decyzji-do-zdobycia-doswiadczenia-radoslaw-smilgin,e_0vj2.htm" target="_blank">Zawód tester. Od decyzji do zdobycia doświadczenia (Radosław Smilgin)</a>
+
+:arrow_forward: <a href="https://szkoleniedlaqa.pl/plan/" target="_blank">Zacznij działać. Twój plan działania jako przyszły specjalista Quality Assurance (Adam Gola)</a>
 
 :arrow_forward: <a href="https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/e" target="_blank">Certyfikowany tester ISTQB. Poziom podstawowy (Adam Roman, Lucjan Stapp)</a>
 
