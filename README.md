@@ -93,7 +93,7 @@
 
 ### February 2023
 
-☑️ <a href="https://www.dareit.io/challenges/qa-manual-testing" target="_blank">Challenge porfolio - QA Manual Testing ('Zostań testerem manualnym') - DARE IT</a>
+☑️ <a href="https://drive.google.com/file/d/1HBIXYlFbKOvJ4XL0h12tgbd-T2wYgSXA/view?usp=share_link" target="_blank">Challenge porfolio - QA Manual Testing ('Zostań testerem manualnym') - DARE IT</a>
 
 - exploratory testing
 - testing web applications
