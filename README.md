@@ -186,6 +186,13 @@
 
 :five: Includer
 
+## TECH EVENTS
+
+:arrow_forward: <a href="https://womentechstyle.pl/" target="_blank">Women Techstyle Summit 2023 (online)</a>
+- <a href="https://www.youtube.com/watch?v=PPdy60_vIU8" target="_blank">Być albo nie być? Kobieta na rynku pracy i w trakcie rekrutacji. - Michalina Błażejewska</a>
+- <a href="https://www.youtube.com/watch?v=syNNyEG1qt4" target="_blank">Houston, mamy problem - proces reagowania na incydenty bezpieczeństwa - Aleksandra Kornecka</a>
+- <a href="https://www.youtube.com/watch?v=401gLvFYarg" target="_blank">Make love (and software) not war. Jak budować wspierające zespoły projektowe? - Anna Kalemba</a>
+
 ## BOOKS ABOUT TESTING
 
 :arrow_forward: <a href="https://www.funwithbugs.com/landingpage/juz_jest_dostepna/" target="_blank">Podróż przez świat testowania (Karolina Pawłowska, Natalia Pawlak)</a>
