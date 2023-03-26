@@ -71,6 +71,12 @@
 
 ### March 2023
 
+☑️ <a href="https://www.udemy.com/certificate/UC-3cc0dcec-06d8-494b-bbea-3fc9987955c3/" target="_blank">GIT course for beginners ('Kurs GIT dla początkujących') - Udemy</a>
+
+- creating a local repository
+- adding files to the repository and tracking changes to those files
+- uploading changes from the local repository to GitHub
+
 ☑️ <a href="https://www.udemy.com/certificate/UC-27510721-85d9-41f0-98e9-eac3ec52bfb3/" target="_blank">Postman from scratch - REST API testing ('Postman od podstaw - testowanie REST API') - Udemy</a>
 
 - Postman
