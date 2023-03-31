@@ -199,6 +199,19 @@
 - <a href="https://www.youtube.com/watch?v=syNNyEG1qt4" target="_blank">Houston, mamy problem - proces reagowania na incydenty bezpieczeństwa - Aleksandra Kornecka</a>
 - <a href="https://www.youtube.com/watch?v=401gLvFYarg" target="_blank">Make love (and software) not war. Jak budować wspierające zespoły projektowe? - Anna Kalemba</a>
 
+:arrow_forward: <a href="https://warszawskiedniinformatyki.pl" target="_blank">Warszawskie Dni Informatyki 2023</a>
+- The Future is Today: Leveraging AI in Software Testing - Mesut Durukal (online)
+- Elevator Pitch, czyli jak zaciekawić sobą i swoim pomysłem - Adrian Sasin (onsite)
+- Mastering testing in agile environments. Based on case studies - Andrzej Mika (onsite)
+
+## THE CODDING APPS - TRAINING
+
+:arrow_forward: [Mimo - SQL training](https://mimo.org/)
+
+:arrow_forward: [Enki - GIT training](https://www.enki.com/)
+
+:arrow_forward: [Sololearn - HTML, CSS training](https://www.sololearn.com/?v=2)
+
 ## BOOKS ABOUT TESTING
 
 :arrow_forward: <a href="https://www.funwithbugs.com/landingpage/juz_jest_dostepna/" target="_blank">Podróż przez świat testowania (Karolina Pawłowska, Natalia Pawlak)</a>
