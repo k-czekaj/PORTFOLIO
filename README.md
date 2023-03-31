@@ -201,6 +201,7 @@
 
 :arrow_forward: <a href="https://warszawskiedniinformatyki.pl" target="_blank"><b>Warszawskie Dni Informatyki 2023 (online and onsite)</b></a>
 - The Future is Today: Leveraging AI in Software Testing - Mesut Durukal (online)
+- Jak się przebranżowić do IT z sukcesem? Będąc mamą i żoną na pełen etat? A o IT wiedzieć tyle co nic - opowiem Ci moją historię. Jak bez znajomości, pleców i ziomków w branży, można znaleźć miejsce dla siebie. - Anna Miechowicz (online)
 - Elevator Pitch, czyli jak zaciekawić sobą i swoim pomysłem - Adrian Sasin (onsite)
 - Mastering testing in agile environments. Based on case studies - Andrzej Mika (onsite)
 
