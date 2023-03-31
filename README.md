@@ -206,11 +206,17 @@
 
 ## THE CODDING APPS - TRAINING
 
-:arrow_forward: [Mimo - SQL training](https://mimo.org/) 
+- [**MIMO**](https://mimo.org/) 
 
-:arrow_forward: [Enki - GIT training](https://www.enki.com/)
+![](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white&logo=mysql)
 
-:arrow_forward: [Sololearn - HTML, CSS training](https://www.sololearn.com/?v=2)
+- [**ENKI**](https://www.enki.com/) 
+
+![](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logoColor=white&logo=git)
+
+- [**SOLOLEARN**](https://www.sololearn.com/?v=2) 
+
+![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logoColor=white&logo=html5) ![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logoColor=white&logo=css3)
 
 ## BOOKS ABOUT TESTING
 
