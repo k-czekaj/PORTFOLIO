@@ -2,7 +2,7 @@
 
 ## ABOUT ME
 
-<p align="justify">Why did I decide to be a <b>software tester</b>? I am the person in the team who <b>can look critically</b> and at the same time <b>delicately give comments</b> without hurting anyone. This has saved my team a lot of times from presenting a project with mistakes and losing client trust in our professionalism. In my work, I always care about a <b>good atmosphere, high quality</b> and <b>every detail of my tasks.</b> I can find mistakes, but I also appreciate <b>constructive criticism</b>, because it allows me to self-develop. The constant <b>desire for self-development</b> is another advantage of being a tester, which convinced me to choose this career path. During my training process, I have mastered <b>the skills of exploratory testing, testing of websites and mobile applications, REST API testing, writing test cases, reporting defects</b> and <b>creating test reports.</b> I know how to use <b>SQL, Chrome DevTools, Jira, Postman, GIT</b> and <b>GitHub.</b> The effects can be seen in this repository. My curiosity grows with each new skill and knowledge, I am convinced that <b>I want to go deeper into the world of testing.</b> I am ready to take on new challenges as <b>a member of the development team.</b></p>
+<p align="justify">Why did I decide to be a <b>software tester</b>? I am the person in the team who <b>can look critically</b> and at the same time <b>delicately give comments</b> without hurting anyone. This has saved my team a lot of times from presenting a project with mistakes and losing client trust in our professionalism. In my work, I always care about a <b>good atmosphere, high quality</b> and <b>every detail of my tasks.</b> I can find mistakes, but I also appreciate <b>constructive criticism</b>, because it allows me to self-develop. The constant <b>desire for self-development</b> is another advantage of being a tester, which convinced me to choose this career path. During my training process, I have mastered <b>the skills of exploratory testing, testing of websites and mobile applications, REST API testing, writing test cases, reporting defects</b> and <b>creating test reports.</b> I know how to use <b>SQL, Chrome DevTools, Jira, Confluence, Postman, GIT</b> and <b>GitHub.</b> The effects can be seen in this repository. My curiosity grows with each new skill and knowledge, I am convinced that <b>I want to go deeper into the world of testing.</b> I am ready to take on new challenges as <b>a member of the development team.</b></p>
 
 ### <p align="center"><a href="https://www.linkedin.com/in/katarzyna-czekaj/" target="_blank">☑️ Visit my <b>LinkedIn</b> profile</a></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/122294284/219976499-1d2a8bb6-1546-498b-8bc3-a252110d41eb.jpg" alt="Obraz autorstwa storyset na Freepik" width="70%" height="70%"></p>
@@ -68,6 +68,14 @@
   :arrow_forward: [**SQL tasks - basics**](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task5.md#subtask3)
 
 ## COURSES
+
+### April 2023
+
+☑️ <a href="https://university.atlassian.com/student/award/qzcfqHLk9Ls1w2rgLQNM6ae6" target="_blank">Confluence Fundamentals - Atlassian University</a>
+
+- basic Confluence navigation
+- working in Confluence
+- Confluence best practices
 
 ### March 2023
 
@@ -135,6 +143,7 @@
 - **MySQL** - a relational database management system that is based on structured query language (SQL)
 - **Xampp** - free and open-source cross-platform web server solution
 - **Jira** - a suite of agile work management solutions that powers collaboration across all teams from concept to customer
+- **Confluence** - a team workspace where knowledge and collaboration meet
 - **qTest** - a test management tool used for Project Management, Bug Tracking, and Test Management
 - **GitHub** - a code hosting platform for version control and collaboration
 - **GIT** - a distributed version control system that tracks changes in any set of computer files
