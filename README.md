@@ -208,7 +208,7 @@
 - <a href="https://www.youtube.com/watch?v=syNNyEG1qt4" target="_blank">Houston, mamy problem - proces reagowania na incydenty bezpieczeństwa</a> - *Aleksandra Kornecka*
 - <a href="https://www.youtube.com/watch?v=401gLvFYarg" target="_blank">Make love (and software) not war. Jak budować wspierające zespoły projektowe?</a> - *Anna Kalemba*
 
-:arrow_forward: <a href="https://warszawskiedniinformatyki.pl" target="_blank"><b>Warszawskie Dni Informatyki 2023 (Warsaw IT Days)</b></a>
+:arrow_forward: <a href="https://brandsome.it/api/admin/user/e2119cc7-bc92-4be2-8c6c-dc4794fe7b4e/certificate" target="_blank"><b>Warszawskie Dni Informatyki 2023 (Warsaw IT Days)</b></a>
 - The Future is Today: Leveraging AI in Software Testing - *Mesut Durukal* (online)
 - Podstawy accessibility testing - czy jest to w ogóle potrzebne? - *Tomasz Szyrner* (VoD)
 - Jak się przebranżowić do IT z sukcesem? Będąc mamą i żoną na pełen etat? A o IT wiedzieć tyle co nic - opowiem Ci moją historię. Jak bez znajomości, pleców i ziomków w branży, można znaleźć miejsce dla siebie. - *Anna Miechowicz* (VoD)
