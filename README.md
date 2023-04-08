@@ -1,6 +1,9 @@
 # 🔎 SOFTWARE TESTER PORTFOLIO - Katarzyna Czekaj
 
-## ABOUT ME
+| [ABOUT ME](#aboutme) | [PROJECTS](#projects) | [TEST CASES example](#testcases) | [BUG REPORT example](#bugreport) | [TEST REPORT example](#testreport) |
+| [JIRA - BUG REPORT example](#jira) | [SQL tasks](#sql) | [COURSES](#courses) | [TOOLS](#tools) | [TECH SKILLS](#techskills) | [SOFT SKILLS](#softskills) |
+| [TOP 5 GALLUP STRENGHTS](#gallup) | [TECH EVENTS](#events) | [THE CODDING APPS - TRAINING](#apps) | [BOOKS ABOUT TESTING](#books) | [BLOGS ABOUT TESTING](#blogs) | [GROUPS ABOUT TESTING ON FACEBOOK](#face) |
+## <a name="aboutme">ABOUT ME</a>
 
 <p align="justify">Why did I decide to be a <b>software tester</b>? I am the person in the team who <b>can look critically</b> and at the same time <b>delicately give comments</b> without hurting anyone. This has saved my team a lot of times from presenting a project with mistakes and losing client trust in our professionalism. In my work, I always care about a <b>good atmosphere, high quality</b> and <b>every detail of my tasks.</b> I can find mistakes, but I also appreciate <b>constructive criticism</b>, because it allows me to self-develop. The constant <b>desire for self-development</b> is another advantage of being a tester, which convinced me to choose this career path. During my training process, I have mastered <b>the skills of exploratory testing, testing of websites and mobile applications, REST API testing, writing test cases, reporting defects</b> and <b>creating test reports.</b> I know how to use <b>SQL, Chrome DevTools, Jira, Confluence, Postman, GIT</b> and <b>GitHub.</b> The effects can be seen in this repository. My curiosity grows with each new skill and knowledge, I am convinced that <b>I want to go deeper into the world of testing.</b> I am ready to take on new challenges as <b>a member of the development team.</b></p>
 
@@ -9,7 +12,7 @@
 
 ###### <p align="center"><a href="https://pl.freepik.com/darmowe-wektory/ilustracja-koncepcji-testowania-kodu-oprogramowania_21532464.htm#page=2&query=tester%20oprogramowania&position=15&from_view=search&track=ais" target="_blank">Image by Storyset on Freepik</a></p> 
 
-## PROJECTS
+## <a name="projects">PROJECTS</a>
 
 - ### ***Challenge portfolio*** organised by DARE IT - QA Manual Testing 
 
@@ -31,7 +34,7 @@
 
   :six: [Task 6: SQL part 2](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task6.md)
 
-- ### TEST CASES example
+- ### <a name="testcases">TEST CASES example</a>
 
   *Test environment:* <a href="https://scouts.futbolkolektyw.pl/" target="_blank">Football Scout - web application</a>
 
@@ -39,7 +42,7 @@
 
   :arrow_forward: <a href="https://docs.google.com/spreadsheets/d/19denA5bKYnGvGJsy86dM3P5xHk01XWrpxlWxbD1njQY/edit?usp=sharing" target="_blank"><b>Test cases based on explorary testing</b></a>
 
-- ### BUG REPORT example
+- ### <a name="bugreport">BUG REPORT example</a>
 
   *Test environment:* <a href="https://scouts.futbolkolektyw.pl/" target="_blank">Football Scout - web application</a>
 
@@ -49,25 +52,25 @@
   
   :arrow_forward: <a href="https://docs.google.com/spreadsheets/d/1muAVMK3fiv_bbriZgU5UXNuu5mbXXu3myqjWlIlFlU8/edit?usp=sharing" target="_blank"><b>Bug report - mobile app testing</b></a>
 
-- ### TEST REPORT example
+- ### <a name="testreport">TEST REPORT example</a>
 
   *Test environment:* <a href="https://scouts.futbolkolektyw.pl/" target="_blank">Football Scout - web application</a>
 
   :arrow_forward: <a href="https://docs.google.com/document/d/1gMhkhlG4gicj1FLED_BK1U921K1k9GwN-2_yVqU5nBY/edit?usp=sharing" target="_blank"><b>Test report - web application testing</b></a>
   
-- ### JIRA - BUG REPORT example
+- ### <a name="jira">JIRA - BUG REPORT example</a>
 
   *Test environment:* <a href="https://play.google.com/store/apps/details?id=pl.swipeto&hl=pl&gl=US" target="_blank">SwipeTo - mobile app</a>
   
   :arrow_forward: <a href="https://drive.google.com/drive/folders/15xQzIkuAT2grWet6FmunHI4-jhl9x9Rq?usp=sharing" target="_blank"><b>Bug report - mobile app testing (Polish)</b></a>
 
-- ### SQL 
+- ### <a name="sql">SQL tasks</a> 
 
   :arrow_forward: [**SQL tasks - advanced**](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task6.md#subtask1) 
 
   :arrow_forward: [**SQL tasks - basics**](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task5.md#subtask3)
 
-## COURSES
+## <a name="courses">COURSES</a>
 
 ### April 2023
 
@@ -138,7 +141,7 @@
 - Jira
 - qTest
 
-## TOOLS
+## <a name="tools">TOOLS</a>
 
 - **MySQL** - a relational database management system that is based on structured query language (SQL)
 - **Xampp** - free and open-source cross-platform web server solution
@@ -154,7 +157,7 @@
 - **OWASP ZAP** - an open-source web application security scanner
 - **BrowserStack** - testing platform that provides developers with the ability to test their websites and mobile applications across on-demand browsers, operating systems and real mobile devices
 
-## TECH SKILLS
+## <a name="techskills">TECH SKILLS</a>
 
 - knowledge of **testing procedures** and the creation of **test documentation**
 - knowledge of Syllabus **ISTQB Foundation level**
@@ -165,7 +168,7 @@
 - communicative **English**
 - **Markdown** knowledge
 
-## SOFT SKILLS
+## <a name="softskills">SOFT SKILLS</a>
 
 🔎 precision and attention to quality
 
@@ -189,7 +192,7 @@
 
 🙅‍♀️ assertive
 
-## TOP 5 GALLUP STRENGHTS
+## <a name="gallup">TOP 5 GALLUP STRENGHTS</a>
 
 :one: Individualization 
 
@@ -201,7 +204,7 @@
 
 :five: Includer
 
-## TECH EVENTS
+## <a name="events">TECH EVENTS</a>
 
 :arrow_forward: <a href="https://womentechstyle.pl/" target="_blank"><b>Women Techstyle Summit 2023 (online)</b></a>
 - <a href="https://www.youtube.com/watch?v=PPdy60_vIU8" target="_blank">Być albo nie być? Kobieta na rynku pracy i w trakcie rekrutacji.</a> - *Michalina Błażejewska*
@@ -215,7 +218,7 @@
 - Elevator Pitch, czyli jak zaciekawić sobą i swoim pomysłem - *Adrian Sasin* (onsite)
 - Mastering testing in agile environments. Based on case studies - *Andrzej Mika* (onsite)
 
-## THE CODDING APPS - TRAINING
+## <a name="apps">THE CODDING APPS - TRAINING</a>
 
 - [**MIMO**](https://mimo.org/) 
 
@@ -229,7 +232,7 @@
 
   ![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logoColor=white&logo=html5) ![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logoColor=white&logo=css3)
 
-## BOOKS ABOUT TESTING
+## <a name="books">BOOKS ABOUT TESTING</a>
 
 :arrow_forward: <a href="https://www.funwithbugs.com/landingpage/juz_jest_dostepna/" target="_blank">Podróż przez świat testowania (Karolina Pawłowska, Natalia Pawlak)</a>
 
@@ -241,7 +244,7 @@
 
 :arrow_forward: <a href="https://helion.pl/ksiazki/sciezka-testera-certyfikat-istqb-w-pytaniach-i-odpowiedziach-rafal-podraza,istqbw.htm#format/e" target="_blank">Ścieżka testera. Certyfikat ISTQB w pytaniach i odpowiedziach (Rafał Podraza)</a>
 
-## RECOMMENDED BLOGS ABOUT TESTING
+## <a name="blogs">RECOMMENDED BLOGS ABOUT TESTING</a>
 
 :arrow_forward: [testuj.pl](https://testuj.pl/blog/)
 
@@ -253,7 +256,7 @@
 
 :arrow_forward: [testelka](https://testelka.pl/blog/)
 
-## GROUPS ABOUT TESTING ON FACEBOOK
+## <a name="face">GROUPS ABOUT TESTING ON FACEBOOK</a>
 
 :arrow_forward: [Testuj, Dziewczyno!](https://www.facebook.com/groups/testujdziewczyno)
 
