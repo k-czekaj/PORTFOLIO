@@ -1,6 +1,12 @@
-# 🔎 SOFTWARE TESTER PORTFOLIO - Katarzyna Czekaj
+# SOFTWARE TESTER PORTFOLIO - Katarzyna Czekaj
 
-**[[ABOUT ME](#aboutme)] [[PROJECTS](#projects)] [[TEST CASES](#testcases)] [[BUG REPORT](#bugreport)] [[TEST REPORT](#testreport)] [[JIRA - BUG REPORT](#jira)] [[SQL tasks](#sql)] [[COURSES](#courses)] [[TOOLS](#tools)] [[TECH SKILLS](#techskills)] [[SOFT SKILLS](#softskills)] [[TOP 5 GALLUP STRENGHTS](#gallup)] [[TECH EVENTS](#events)] [[THE CODDING APPS](#apps)] [[BOOKS](#books)] [[BLOGS](#blogs)] [[GROUPS ABOUT TESTING](#face)]**
+#### :pushpin: TABLE OF CONTENTS
+
+-----
+
+:white_circle: [ABOUT ME](#aboutme) :white_circle: [PROJECTS](#projects) :white_circle: [TEST CASES example](#testcases) :white_circle: [BUG REPORT example](#bugreport) :white_circle: [TEST REPORT example](#testreport) :white_circle: [JIRA - BUG REPORT example](#jira) :white_circle: [SQL tasks](#sql) :white_circle: [COURSES](#courses) :white_circle: [TOOLS](#tools) :white_circle: [TECH SKILLS](#techskills) :white_circle: [SOFT SKILLS](#softskills) :white_circle: [TOP 5 GALLUP STRENGHTS](#gallup) :white_circle: [TECH EVENTS](#events) :white_circle: [THE CODDING APPS - training](#apps) :white_circle: [BOOKS ABOUT TESTING](#books) :white_circle: [RECOMMENDED BLOGS ABOUT TESTING](#blogs) :white_circle: [GROUPS ABOUT TESTING ON FACEBOOK](#face) :white_circle:
+
+-----
 
 ## <a name="aboutme">ABOUT ME</a>
 
