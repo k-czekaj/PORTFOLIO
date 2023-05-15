@@ -19,6 +19,28 @@
 
 ## <a name="projects">PROJECTS</a>
 
+- ### ***COLT 01/2023*** organised by Cherry-IT - Postman and additional topics related to the API
+
+  *(from March to April 2023)*
+  
+  :grey_question: [What is this project? - introduction]()
+  
+  :arrow_forward: <a href="" target="_blank">Project repository: Collection in Postman about testing the API of Trello</a>
+  
+  Project scope:
+  
+  ☑️ getting to know the basic knowledge of REST API
+  
+  ☑️ getting to know the Postman tool
+  
+  ☑️ creating my own collections based on Trello documentation
+  
+  ☑️ learning to report bugs
+  
+  ☑️ learning to create test cases
+  
+  ☑️ learning GIT and getting to know GitHub
+
 - ### ***Challenge portfolio*** organised by DARE IT - QA Manual Testing 
 
   *(from January to February 2023)*
