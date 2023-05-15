@@ -101,6 +101,14 @@
 
 ### April 2023
 
+☑️ <a href="https://www.nowaty.coi.gov.pl/" target="_blank">New you in IT - Centralny Ośrodek Informatyki</a>
+
+- SCRUM methodology
+- Agile approach
+- software development process
+- roles in the software development process
+- project success factors
+
 ☑️ <a href="https://university.atlassian.com/student/award/qzcfqHLk9Ls1w2rgLQNM6ae6" target="_blank">Confluence Fundamentals - Atlassian University</a>
 
 - basic Confluence navigation
