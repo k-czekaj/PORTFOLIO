@@ -23,8 +23,6 @@
 
   *(from March to April 2023)*
   
-  :grey_question: [What is this project? - introduction]()
-  
   :arrow_forward: <a href="" target="_blank">Project repository: Collection in Postman about testing the API of Trello</a>
   
   Project scope:
@@ -108,6 +106,14 @@
 - software development process
 - roles in the software development process
 - project success factors
+
+☑️ <a href="https://m.goit.global/pl/?utm_source=google&utm_medium=cpc&utm_campaign=19908700535&utm_term=146264932926|652825193268||go-it&gad=1&gclid=CjwKCAjw9pGjBhB-EiwAa5jl3KnsR1nsyVDGSMKU0Rik7QbR2aWH7Dwb69fbmp7JSQsoSNztEpy_ghoCqsEQAvD_BwE" target="_blank">7-Day Marathon HTML/CSS - GoIT</a>
+
+- Figma basics
+- Visual Studio Code basics
+- HTML basics
+- CSS styles basics
+- website project with CV example
 
 ☑️ <a href="https://university.atlassian.com/student/award/qzcfqHLk9Ls1w2rgLQNM6ae6" target="_blank">Confluence Fundamentals - Atlassian University</a>
 
