@@ -107,7 +107,7 @@
 - roles in the software development process
 - project success factors
 
-☑️ <a href="https://m.goit.global/pl/?utm_source=google&utm_medium=cpc&utm_campaign=19908700535&utm_term=146264932926|652825193268||go-it&gad=1&gclid=CjwKCAjw9pGjBhB-EiwAa5jl3KnsR1nsyVDGSMKU0Rik7QbR2aWH7Dwb69fbmp7JSQsoSNztEpy_ghoCqsEQAvD_BwE" target="_blank">7-Day Marathon HTML/CSS - GoIT</a>
+☑️ <a href="https://m.goit.global/pl/?utm_source=google&utm_medium=cpc&utm_campaign=19908700535&utm_term=146264932926|652825193268||go-it&gad=1&gclid=CjwKCAjw9pGjBhB-EiwAa5jl3KnsR1nsyVDGSMKU0Rik7QbR2aWH7Dwb69fbmp7JSQsoSNztEpy_ghoCqsEQAvD_BwE" target="_blank">7-Day Marathon HTML+CSS - GoIT</a>
 
 - Figma basics
 - Visual Studio Code basics
