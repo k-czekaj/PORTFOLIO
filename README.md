@@ -23,7 +23,7 @@
 
   *(from March to April 2023)*
   
-  :arrow_forward: <a href="" target="_blank">Project repository: Collection in Postman about testing the API of Trello</a>
+  :arrow_forward: <a href="https://github.com/k-czekaj/Trello_REST_API" target="_blank">Project repository: Trello API tests in Postman</a>
   
   Project scope:
   
