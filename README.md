@@ -1,6 +1,6 @@
 # SOFTWARE TESTER PORTFOLIO - Katarzyna Czekaj
 
-#### :pushpin: TABLE OF CONTENTS
+#### TABLE OF CONTENTS
 
 -----
 
