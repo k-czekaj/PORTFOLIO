@@ -209,6 +209,7 @@
 - **DevTools** knowledge
 - **SQL** knowledge
 - **REST API testing**
+- **HTML/CSS** basics
 - understanding of different delivery **methodologies** (e.g., agile, waterfall, v-model)
 - communicative **English**
 - **Markdown** knowledge
