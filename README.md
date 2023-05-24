@@ -8,7 +8,7 @@
 
 -----
 
-## <a name="aboutme">ABOUT ME</a>
+## <a name="aboutme">:mag_right: ABOUT ME</a>
 
 <p align="justify">I'm a 'retired' 30 years old interior designer who decided it is time for a change! <b>I thirst for knowledge and new challenges.</b> I needed a profession that allow me <b>constantly self-develop</b> and <b>use my talent to find errors</b>. And that's how I changed my life, choosing to be a <b>software tester</b>.
 
