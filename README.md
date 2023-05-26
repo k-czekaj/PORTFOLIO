@@ -101,6 +101,10 @@
 
 ## <a name="courses">COURSES</a>
 
+### May 2023
+
+☑️ <a href="https://www.udemy.com/certificate/UC-4fd0a46e-4f42-42c4-8265-b25ba2086d0c/" target="_blank">Recruitment questions and answers for the tester - Udemy</a>
+
 ### April 2023
 
 ☑️ <a href="https://www.nowaty.coi.gov.pl/" target="_blank">New you in IT - Centralny Ośrodek Informatyki</a>
