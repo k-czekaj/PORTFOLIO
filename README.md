@@ -4,7 +4,7 @@
 
 -----
 
-:white_circle: [ABOUT ME](#aboutme) :white_circle: [PROJECTS](#projects) :white_circle: [TEST CASES example](#testcases) :white_circle: [BUG REPORT example](#bugreport) :white_circle: [TEST REPORT example](#testreport) :white_circle: [JIRA - BUG REPORT example](#jira) :white_circle: [SQL tasks](#sql) :white_circle: [COURSES](#courses) :white_circle: [TOOLS](#tools) :white_circle: [TECH SKILLS](#techskills) :white_circle: [SOFT SKILLS](#softskills) :white_circle: [TOP 5 GALLUP STRENGHTS](#gallup) :white_circle: [TECH EVENTS](#events) :white_circle: [THE CODDING APPS - training](#apps) :white_circle: [BOOKS ABOUT TESTING](#books) :white_circle: [RECOMMENDED BLOGS ABOUT TESTING](#blogs) :white_circle: [GROUPS ABOUT TESTING ON FACEBOOK](#face) :white_circle:
+:white_circle: [ABOUT ME](#aboutme) :white_circle: [PROJECTS](#projects) :white_circle: [TEST CASES example](#testcases) :white_circle: [BUG REPORT example](#bugreport) :white_circle: [TEST REPORT example](#testreport) :white_circle: [JIRA - BUG REPORT example](#jira) :white_circle: [SQL tasks](#sql) :white_circle: [COURSES](#courses) :white_circle: [TOOLS](#tools) :white_circle: [TECH SKILLS](#techskills) :white_circle: [SOFT SKILLS](#softskills) :white_circle:
 
 -----
 
@@ -243,84 +243,6 @@ I focus on delivering high-quality digital experiences by verifying web and mobi
 :clipboard: well-organized
 
 🙅‍♀️ assertive
-
-## <a name="gallup">TOP 5 GALLUP STRENGHTS</a>
-
-:one: Individualization 
-
-:two: Input 
-
-:three: Maximizer
-
-:four: Positivity
-
-:five: Includer
-
-## <a name="events">TECH EVENTS</a>
-
-:arrow_forward: <a href="https://womentechstyle.pl/" target="_blank"><b>Women Techstyle Summit 2023 (online)</b></a>
-- <a href="https://www.youtube.com/watch?v=PPdy60_vIU8" target="_blank">Być albo nie być? Kobieta na rynku pracy i w trakcie rekrutacji.</a> - *Michalina Błażejewska*
-- <a href="https://www.youtube.com/watch?v=syNNyEG1qt4" target="_blank">Houston, mamy problem - proces reagowania na incydenty bezpieczeństwa</a> - *Aleksandra Kornecka*
-- <a href="https://www.youtube.com/watch?v=401gLvFYarg" target="_blank">Make love (and software) not war. Jak budować wspierające zespoły projektowe?</a> - *Anna Kalemba*
-
-:arrow_forward: <a href="https://brandsome.it/api/admin/user/e2119cc7-bc92-4be2-8c6c-dc4794fe7b4e/certificate" target="_blank"><b>Warszawskie Dni Informatyki 2023 (Warsaw IT Days)</b></a>
-- The Future is Today: Leveraging AI in Software Testing - *Mesut Durukal* (online)
-- Podstawy accessibility testing - czy jest to w ogóle potrzebne? - *Tomasz Szyrner* (VoD)
-- Jak się przebranżowić do IT z sukcesem? Będąc mamą i żoną na pełen etat? A o IT wiedzieć tyle co nic - opowiem Ci moją historię. Jak bez znajomości, pleców i ziomków w branży, można znaleźć miejsce dla siebie. - *Anna Miechowicz* (VoD)
-- Elevator Pitch, czyli jak zaciekawić sobą i swoim pomysłem - *Adrian Sasin* (onsite)
-- Mastering testing in agile environments. Based on case studies - *Andrzej Mika* (onsite)
-
-## <a name="apps">THE CODDING APPS - TRAINING</a>
-
-- [**MIMO**](https://mimo.org/) 
-
-  ![](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white&logo=sqlite)
-
-- [**ENKI**](https://www.enki.com/) 
-
-  ![](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logoColor=white&logo=git)
-
-- [**SOLOLEARN**](https://www.sololearn.com/?v=2) 
-
-  ![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logoColor=white&logo=html5) ![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logoColor=white&logo=css3)
-
-## <a name="books">BOOKS ABOUT TESTING</a>
-
-:arrow_forward: <a href="https://www.funwithbugs.com/landingpage/juz_jest_dostepna/" target="_blank">Podróż przez świat testowania (Karolina Pawłowska, Natalia Pawlak)</a>
-
-:arrow_forward: <a href="https://helion.pl/ksiazki/zawod-tester-od-decyzji-do-zdobycia-doswiadczenia-radoslaw-smilgin,e_0vj2.htm" target="_blank">Zawód tester. Od decyzji do zdobycia doświadczenia (Radosław Smilgin)</a>
-
-:arrow_forward: <a href="https://szkoleniedlaqa.pl/plan/" target="_blank">Zacznij działać. Twój plan działania jako przyszły specjalista Quality Assurance (Adam Gola)</a>
-
-:arrow_forward: <a href="https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/e" target="_blank">Certyfikowany tester ISTQB. Poziom podstawowy (Adam Roman, Lucjan Stapp)</a>
-
-:arrow_forward: <a href="https://helion.pl/ksiazki/sciezka-testera-certyfikat-istqb-w-pytaniach-i-odpowiedziach-rafal-podraza,istqbw.htm#format/e" target="_blank">Ścieżka testera. Certyfikat ISTQB w pytaniach i odpowiedziach (Rafał Podraza)</a>
-
-## <a name="blogs">RECOMMENDED BLOGS ABOUT TESTING</a>
-
-:arrow_forward: [testuj.pl](https://testuj.pl/blog/)
-
-:arrow_forward: [Quality Island](https://qualityisland.pl/blog/)
-
-:arrow_forward: [Waldemar Szafraniec: testy i szkolenia](https://www.wyszkolewas.com.pl/)
-
-:arrow_forward: [Tester - Milena Bednarczyk](https://tester.milenabednarczyk.pl/)
-
-:arrow_forward: [testelka](https://testelka.pl/blog/)
-
-## <a name="face">GROUPS ABOUT TESTING ON FACEBOOK</a>
-
-:arrow_forward: [Testuj, Dziewczyno!](https://www.facebook.com/groups/testujdziewczyno)
-
-:arrow_forward: [Testowanie oprogramowania - Materiały | Porady](https://www.facebook.com/groups/testowanie/)
-
-:arrow_forward: [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/)
-
-:arrow_forward: [Tester oprogramowania - jak nim zostać?](https://www.facebook.com/groups/jakzostactesterem/)
-
-:arrow_forward: [Start w IT - początkujący tester oprogramowania i programista](https://www.facebook.com/groups/czyitjestdlamnie/)
-
-:arrow_forward: [ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242)
 
 ---------
 
