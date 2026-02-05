@@ -103,11 +103,19 @@ I focus on delivering high-quality digital experiences by verifying web and mobi
 
 ## <a name="courses">COURSES</a>
 
-### May 2023
+☑️ <a href="https://tusietestuje.pl/p/praktyczny-kurs-testowania-dostepnosci-accessibility-dla-poczatkujacych-2/" target="_blank">Practical Accesibility Testing - Tu się testuje</a>
 
-☑️ <a href="https://www.udemy.com/certificate/UC-4fd0a46e-4f42-42c4-8265-b25ba2086d0c/" target="_blank">Recruitment questions and answers for the tester - Udemy</a>
+- accessibility testing of websites and mobile applications – in accordance with the WCAG standard
+- accessibility testing for various user groups and their needs
 
-### April 2023
+☑️ <a href="https://app.santanderopenacademy.com/pl/program/sztuczna-inteligencja-ai-dla-kazdego-2025" target="_blank">AI for everyone - Santander Open Academy</a>  
+
+- creating effective prompts and generating text using AI
+- advanced techniques for creating images, sound, animation, and video using AI
+- working with generative chatbots
+- knowledge of the ethical challenges and legal issues related to AI
+- social and economic consequences of AI development
+- future of AI
 
 ☑️ <a href="https://www.nowaty.coi.gov.pl/" target="_blank">New you in IT - Centralny Ośrodek Informatyki</a>
 
@@ -130,8 +138,6 @@ I focus on delivering high-quality digital experiences by verifying web and mobi
 - basic Confluence navigation
 - working in Confluence
 - Confluence best practices
-
-### March 2023
 
 ☑️ <a href="https://www.udemy.com/certificate/UC-3cc0dcec-06d8-494b-bbea-3fc9987955c3/" target="_blank">GIT course for beginners ('Kurs GIT dla początkujących') - Udemy</a>
 
@@ -159,8 +165,6 @@ I focus on delivering high-quality digital experiences by verifying web and mobi
 - BrowserStack
 - SQL
 
-### February 2023
-
 ☑️ <a href="https://drive.google.com/file/d/1HBIXYlFbKOvJ4XL0h12tgbd-T2wYgSXA/view?usp=share_link" target="_blank">Challenge porfolio - QA Manual Testing ('Zostań testerem manualnym') - DARE IT</a>
 
 - exploratory testing
@@ -180,8 +184,6 @@ I focus on delivering high-quality digital experiences by verifying web and mobi
 ☑️ <a href="https://www.udemy.com/certificate/UC-b9d483e2-b653-4d84-b520-0d8d93524365/" target="_blank">SQL from scratch | MySQL ('Kurs SQL od podstaw | MySQL') - Udemy</a>
 
 - SQL
-
-### January 2023
 
 ☑️ <a href="https://www.udemy.com/certificate/UC-2462a409-5f17-4c14-b08e-f51f17405cf3/" target="_blank">Basics of manual software testing ('Podstawy manualnego testowania oprogramowania') - Udemy</a>
 
