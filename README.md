@@ -1,4 +1,4 @@
-# SOFTWARE TESTER PORTFOLIO - Katarzyna Czekaj
+# SOFTWARE TESTER PORTFOLIO - Katarzyna Czekaj-Nawrot
 
 #### TABLE OF CONTENTS
 
@@ -10,7 +10,9 @@
 
 ## <a name="aboutme">:mag_right: ABOUT ME</a>
 
-<p align="justify">I'm a 'retired' 30 years old interior designer who decided it is time for a change! <b>I thirst for knowledge and new challenges.</b> I needed a profession that allow me <b>constantly self-develop</b> and <b>use my talent to find errors</b>. And that's how I changed my life, choosing to be a <b>software tester</b>.</p>
+<p align="justify">In my role as a <b>UAT Tester</b>, I ensure that complex business requirements translate into simple and reliable <b>banking services</b>. 
+
+I focus on delivering high-quality digital experiences by verifying web and mobile interfaces for <b>UX consistency and WCAG standards</b>. I believe that <b>modern banking should be accessible to everyone. </b>.</p>
 
 <p align="justify"><b>Why do I love being a software tester?</b> I can be the <b>guardian of software quality</b>. Testing is an endless opportunity to find typos, logical errors or functionalities that can work better and easier. Another plus of being a tester is using my <b>creativity</b>. I always <b>try to find a new way to "break" something in the software or use it unusually</b>. As a tester, I can use my <b>empathy</b>. I always try to <b>put myself in someone else's shoes and look at software through their eyes</b>. I also care about other colleagues, so I try to write test cases so that the reproduction of the steps comes easily.</p>
 
