@@ -11,8 +11,7 @@
 ## <a name="aboutme">:mag_right: ABOUT ME</a>
 
 <p align="justify">In my role as a <b>UAT Tester</b>, I ensure that complex business requirements translate into simple and reliable <b>banking services</b>. 
-
-I focus on delivering high-quality digital experiences by verifying web and mobile interfaces for <b>UX consistency and WCAG standards</b>. I believe that <b>modern banking should be accessible to everyone. </b>.</p>
+I focus on delivering high-quality digital experiences by verifying web and mobile interfaces for <b>UX consistency and WCAG standards</b>.</p>
 
 <p align="justify"><b>Why do I love being a software tester?</b> I can be the <b>guardian of software quality</b>. Testing is an endless opportunity to find typos, logical errors or functionalities that can work better and easier. Another plus of being a tester is using my <b>creativity</b>. I always <b>try to find a new way to "break" something in the software or use it unusually</b>. As a tester, I can use my <b>empathy</b>. I always try to <b>put myself in someone else's shoes and look at software through their eyes</b>. I also care about other colleagues, so I try to write test cases so that the reproduction of the steps comes easily.</p>
 
@@ -197,21 +196,18 @@ I focus on delivering high-quality digital experiences by verifying web and mobi
 ## <a name="tools">TOOLS</a>
 
 - **MySQL** - a relational database management system that is based on structured query language (SQL)
-- **Xampp** - free and open-source cross-platform web server solution
 - **Jira** - a suite of agile work management solutions that powers collaboration across all teams from concept to customer
 - **Confluence** - a team workspace where knowledge and collaboration meet
-- **qTest** - a test management tool used for Project Management, Bug Tracking, and Test Management
 - **GitHub** - a code hosting platform for version control and collaboration
 - **GIT** - a distributed version control system that tracks changes in any set of computer files
-- **Postman** - an API platform for building and using APIs.
-- **Slack** - a messaging app for business that connects people to the information they need
-- **Mobizen** - a screen recorder mobile app
-- **Screenpresso** - a screen grab tool with built-in image editor
-- **OWASP ZAP** - an open-source web application security scanner
-- **BrowserStack** - testing platform that provides developers with the ability to test their websites and mobile applications across on-demand browsers, operating systems and real mobile devices
-
+- **Postman** - an API platform for building and using APIs
+- **NVDA** - screen reader for Windows, enables blind and visually impaired people to work independently
+- **TalkBack** - a screen reader built into Android systems that allows blind and visually impaired people to operate their smartphones
+- **VoiceOver** - a screen reader built into Apple systems, enabling blind and visually impaired people to fully operate their devices
+  
 ## <a name="techskills">TECH SKILLS</a>
 
+- **accessibility testing** compliance with WCAG standards
 - knowledge of **testing procedures** and the creation of **test documentation**
 - knowledge of Syllabus **ISTQB Foundation level**
 - **DevTools** knowledge
@@ -220,7 +216,6 @@ I focus on delivering high-quality digital experiences by verifying web and mobi
 - **HTML/CSS** basics
 - understanding of different delivery **methodologies** (e.g., agile, waterfall, v-model)
 - communicative **English**
-- **Markdown** knowledge
 
 ## <a name="softskills">SOFT SKILLS</a>
 
